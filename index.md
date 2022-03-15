@@ -66,6 +66,15 @@ page_sections:
     image: "/uploads/2022/03/06/shane-rounce-dnkonxqti3c-unsplash-r2.jpg"
     alt_text: Hands on tree
   slug: cosa
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: editoriali
+  headline: Per sognare non bisogna chiudere gli occhi, bisogna leggere (
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: detail-content
   block: text-tw
   content: ''
@@ -77,5 +86,6 @@ page_sections:
     è un associazione senza scopo di lucro e partecipa al programma "Google for Non
     profits".<br><br><a href="privacy" title="privacy" style="color: white">Privacy
     &amp; Cookie policy</a>'
+published: false
 
 ---
