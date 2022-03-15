@@ -68,7 +68,7 @@ page_sections:
   slug: cosa
 - template: detail-content
   block: text-1
-  content: "<p>twitter</p>"
+  content: "<p><a class="twitter-timeline" data-height="450" href="https://twitter.com/pianetararo?ref_src=twsrc%5Etfw">Tweets by pianetararo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>"
   headline: ''
 - template: simple-footer
   block: footer-1
