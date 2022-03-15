@@ -67,8 +67,8 @@ page_sections:
     alt_text: Hands on tree
   slug: cosa
 - template: detail-content
-  block: text-1
-  content: "<p>twitter</p>"
+  block: text-tw
+  content: ''
   headline: ''
 - template: simple-footer
   block: footer-1
