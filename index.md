@@ -66,10 +66,6 @@ page_sections:
     image: "/uploads/2022/03/06/shane-rounce-dnkonxqti3c-unsplash-r2.jpg"
     alt_text: Hands on tree
   slug: cosa
-- template: detail-content
-  block: text-1
-  content: "<p><a class="twitter-timeline" data-height="450" href="https://twitter.com/pianetararo?ref_src=twsrc%5Etfw">Tweets by pianetararo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>"
-  headline: ''
 - template: simple-footer
   block: footer-1
   content: 'Pianetararo associazione culturale<br>CF: 04015870365 <br>info@pianetararo.org<br><a
