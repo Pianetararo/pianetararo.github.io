@@ -73,8 +73,8 @@ page_sections:
   media_alignment: Right
   slug: editoriali
   headline: '"Per <strong>sognare </strong>non bisogna chiudere gli occhi, bisogna
-    <strong>leggere" </strong>(M. Faucault)'
-  content: La collana "Pensieri digitali" sono riflessioni e idee sparse rigorosamente
+    <strong>leggere" <br></strong>(M. Faucault)'
+  content: <br>La collana "Pensieri digitali" sono riflessioni e idee sparse rigorosamente
     conditi in salsa digitale.<br><br><a href="https://zenodo.org/record/6331378"
     title="Viaggio con passeggero dal bagaglio leggero">Viaggio con passeggero dal
     bagaglio leggero</a><br><br><a href="https://zenodo.org/record/6331378" title="Il
