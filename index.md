@@ -6,14 +6,14 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: editoriali
-    link_text: PENSIERI DIGITALI
   - link: "/"
     link_text: HOME
   - link: "#intro"
     link_text: CHI
   - link: "#cosa"
     link_text: COSA
+  - link: editoriali
+    link_text: PENSIERI DIGITALI
   logo: "/uploads/2022/02/15/leaf-solid_.svg"
 - template: hero-banner-w-image
   block: hero-2
