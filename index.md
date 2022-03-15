@@ -70,11 +70,12 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: editoriali
-  headline: Per sognare non bisogna chiudere gli occhi, bisogna leggere (
+  headline: Per <strong>sognare </strong>non bisogna chiudere gli occhi, bisogna <strong>leggere
+    </strong>(M. Faucault)
   content: ''
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2022/03/15/books-2596809_640.jpg"
+    alt_text: library
 - template: detail-content
   block: text-tw
   content: ''
