@@ -70,9 +70,13 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: editoriali
-  headline: Per <strong>sognare </strong>non bisogna chiudere gli occhi, bisogna <strong>leggere
-    </strong>(M. Faucault)
-  content: ''
+  headline: '"Per <strong>sognare </strong>non bisogna chiudere gli occhi, bisogna
+    <strong>leggere" </strong>(M. Faucault)'
+  content: La collana "Pensieri digitali" sono riflessioni e idee sparse rigorosamente
+    conditi in salsa digitale.<br><br><a href="https://zenodo.org/record/6331378"
+    title="Viaggio con passeggero dal bagaglio leggero">Viaggio con passeggero dal
+    bagaglio leggero</a><br><br><a href="https://zenodo.org/record/6331378" title="Il
+    lato oscuro del digitale">Il lato oscuro del digitale </a><br><br>
   media:
     image: "/uploads/2022/03/15/books-2596809_640.jpg"
     alt_text: library
@@ -87,6 +91,5 @@ page_sections:
     è un associazione senza scopo di lucro e partecipa al programma "Google for Non
     profits".<br><br><a href="privacy" title="privacy" style="color: white">Privacy
     &amp; Cookie policy</a>'
-published: false
 
 ---
