@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: editoriali
+    link_text: PENSIERI DIGITALI
   - link: "/"
     link_text: HOME
   - link: "#intro"
