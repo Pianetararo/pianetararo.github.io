@@ -80,7 +80,7 @@ page_sections:
     bagaglio leggero</a><br><br><a href="https://zenodo.org/record/6331378" title="Il
     lato oscuro del digitale">Il lato oscuro del digitale </a><br><br>
   media:
-    image: "/uploads/2022/03/15/books-2596809_640.jpg"
+    image: "/uploads/2022/03/15/books-2596809_500.jpg"
     alt_text: library
 - template: detail-content
   block: text-tw
