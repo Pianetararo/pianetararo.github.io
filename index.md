@@ -74,11 +74,12 @@ page_sections:
   slug: editoriali
   headline: '"Per <strong>sognare </strong>non bisogna chiudere gli occhi, <br>bisogna
     <strong>leggere</strong>"'
-  content: (M. Faucault)<br><br><br>La collana "<strong>Pensieri digitali</strong>"
-    sono riflessioni e idee sparse rigorosamente condite in salsa digitale.<br><br><a
-    href="https://zenodo.org/record/6335578" title="Viaggio con passeggero dal bagaglio
-    leggero">Viaggio con passeggero dal bagaglio leggero</a><br><br><a href="https://zenodo.org/record/6331378"
-    title="Il lato oscuro del digitale">Il lato oscuro del digitale </a><br><br>
+  content: (M. Faucault)<br><br><br>Riflessioni e idee sparse condite in salsa digitale
+    diventano "<strong>Pensieri digitali</strong>", una collana di frammenti da <em>leggere</em>.
+    <br><br><a href="https://zenodo.org/record/6335578" title="Viaggio con passeggero
+    dal bagaglio leggero">Viaggio con passeggero dal bagaglio leggero</a><br><br><a
+    href="https://zenodo.org/record/6331378" title="Il lato oscuro del digitale">Il
+    lato oscuro del digitale </a><br><br>
   media:
     image: "/uploads/2022/03/15/books-2596809_500.jpg"
     alt_text: library
