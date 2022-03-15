@@ -73,7 +73,7 @@ page_sections:
   media_alignment: Right
   slug: editoriali
   headline: Per <strong>sognare </strong>non bisogna chiudere gli occhi, bisogna <strong>leggere</strong>
-  content: (M. Faucault)<br><br><br>Riflessioni e idee sparse condite in salsa digitale
+  content: (M. Foucault)<br><br><br>Riflessioni e idee sparse condite in salsa digitale
     diventano "<strong>Pensieri digitali</strong>", una collana di frammenti da <em>leggere</em>.
     <br><br><a href="https://zenodo.org/record/6335578" title="Viaggio con passeggero
     dal bagaglio leggero">Viaggio con passeggero dal bagaglio leggero</a><br><br><a
