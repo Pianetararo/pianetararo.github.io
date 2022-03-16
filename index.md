@@ -13,7 +13,7 @@ page_sections:
   - link: "#cosa"
     link_text: COSA
   - link: "#editoriali"
-    link_text: PENSIERI DIGITALI
+    link_text: PENSIERI
   logo: "/uploads/2022/02/15/leaf-solid_.svg"
 - template: hero-banner-w-image
   block: hero-2
