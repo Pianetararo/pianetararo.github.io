@@ -106,7 +106,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Alla <strong>Notte della ricerca</strong> <strong>2022 </strong>Stradora
-    diventa <em>Game</em>
+    diventa <strong><em>Game</em></strong>
   slug: stradoragame
   media:
     image: "/uploads/2022/09/24/stradora-game3.PNG"
