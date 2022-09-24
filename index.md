@@ -109,7 +109,7 @@ page_sections:
     diventa <em>Game</em>"
   slug: stradoragame
   media:
-    image: "/uploads/2022/09/24/stradora-game2.PNG"
+    image: "/uploads/2022/09/24/stradora-game3.PNG"
     alt_text: stradora game
   content: <br>Il 30 settembre 2022, in occasione della <a href="https://www.focus.unimore.it/la-notte-europea-della-ricerca-laboratori-esperimenti-visite-guidate/"
     title=""><strong>Notte della ricerca 2002</strong></a> promossa da <a href="https://www.unimore.it/"
