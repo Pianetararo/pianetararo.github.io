@@ -111,8 +111,8 @@ page_sections:
   media:
     image: "/uploads/2022/09/24/stradora-game3.PNG"
     alt_text: stradora game
-  content: <br>Il 30 settembre, in occasione della <a href="https://www.focus.unimore.it/la-notte-europea-della-ricerca-laboratori-esperimenti-visite-guidate/"
-    title=""><strong>Notte della ricerca 2022</strong></a> promossa da <a href="https://www.unimore.it/"
+  content: <br>Il 30 settembre, in occasione della <a href="https://www.nottedeiricercatori.it/"
+    title=""><strong>Notte della ricerca 2022</strong></a> promossa da <a href="https://www.focus.unimore.it/la-notte-europea-della-ricerca-laboratori-esperimenti-visite-guidate/"
     title=""><strong>Unimore</strong></a> alla sede <a href="https://www.unimore.it/nottericerca2022/re01.html"
     title=""><strong>Tecnopolo</strong></a> di Reggio Emilia, siamo lieti di presentare
     un laboratorio ispirato al progetto <a href="https://stradora.org" title="">Stradora</a>
