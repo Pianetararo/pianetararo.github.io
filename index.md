@@ -95,7 +95,7 @@ page_sections:
     aumentata</strong> grazie ad un'applicazione per smartphone capace di porre un
     nuovo accento su elementi tangibili e intangibili del patrimonio che ci circonda.
     <br><br>Il progetto ha origine da una nostra sperimentazione in ambito accademico
-    in seno all'Università di Modena e Reggio Emilia.<br><br>L'applicazione Stradora
+    presso l'Università di Modena e Reggio Emilia.<br><br>L'applicazione Stradora
     sarà presto disponibile a questo <a href="https://stradora.org" title="Stradora
     home page">indirizzo</a>.<br>
   slug: stradora
