@@ -105,8 +105,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Notte della ricerca</strong> <strong>2022</strong><br>Stradora
-    diventa <em>Game</em>"
+  headline: Alla <strong>Notte della ricerca</strong> <strong>2022 </strong>Stradora
+    diventa <em>Game</em>
   slug: stradoragame
   media:
     image: "/uploads/2022/09/24/stradora-game3.PNG"
