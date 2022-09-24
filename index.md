@@ -100,6 +100,15 @@ page_sections:
   media:
     image: "/uploads/2022/09/24/stradora.png"
     alt_text: stradora app
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>STRADORA</strong> diventa <em>Game</em>"
+  slug: stradoragame
+  media:
+    image: "/uploads/2022/09/24/stradora-game.PNG"
+    alt_text: stradora game
+  content: ''
 - template: detail-content
   block: text-tw
   content: ''
