@@ -100,7 +100,7 @@ page_sections:
     home page">indirizzo</a>.<br>
   slug: stradora
   media:
-    image: "/uploads/2022/09/24/stradora.png"
+    image: "/uploads/2022/09/24/stradora-2.png"
     alt_text: stradora app
 - template: content-feature
   block: feature-1
