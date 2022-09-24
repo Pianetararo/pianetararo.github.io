@@ -82,6 +82,22 @@ page_sections:
   media:
     image: "/uploads/2022/03/15/books-2596809_500.jpg"
     alt_text: library
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>STRADORA<br></strong>"
+  content: Abbiamo ideato il progetto <strong>Stradora</strong> con lo scopo di cercare
+    di offrire una nuova esperienza del patrimonio culturale, un <strong>esperienza
+    aumentata</strong> grazie ad un'applicazione per smartphone capace di porre un
+    nuovo accento su elementi tangibili e intangibili del patrimonio che ci circonda.
+    <br><br>Il progetto ha origine da una nostra sperimentazione in ambito accademico
+    in seno all'Università di Modena e Reggio Emilia.<br><br>L' applicazione Stradora
+    sarà presto disponibile a questo <a href="https://stradora.org" title="Stradora
+    home page">indirizzo</a>.<br>
+  slug: stradora
+  media:
+    image: "/uploads/2022/09/24/stradora.png"
+    alt_text: stradora app
 - template: detail-content
   block: text-tw
   content: ''
