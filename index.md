@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "#stradora"
+    link_text: STRADORA
   - link: "/"
     link_text: HOME
   - link: "#intro"
