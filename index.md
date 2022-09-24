@@ -84,7 +84,7 @@ page_sections:
     alt_text: library
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>STRADORA<br></strong>"
   content: Abbiamo ideato il progetto <strong>Stradora</strong> con lo scopo di cercare
     di offrire una nuova esperienza del patrimonio culturale, un <strong>esperienza
