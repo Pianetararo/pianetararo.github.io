@@ -6,8 +6,6 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "#stradora"
-    link_text: STRADORA
   - link: "/"
     link_text: HOME
   - link: "#intro"
@@ -16,6 +14,10 @@ page_sections:
     link_text: COSA
   - link: "#editoriali"
     link_text: PENSIERI
+  - link: "#stradora"
+    link_text: STRADORA
+  - link: "#stradoragame"
+    link_text: Notte della ricerca 2022
   logo: "/uploads/2022/02/15/leaf-solid_.svg"
 - template: hero-banner-w-image
   block: hero-2
@@ -103,12 +105,19 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>STRADORA</strong> diventa <em>Game</em>"
+  headline: "<strong>Notte della ricerca</strong> <strong>2022</strong> - Stradora
+    diventa <em>Game</em>"
   slug: stradoragame
   media:
     image: "/uploads/2022/09/24/stradora-game.PNG"
     alt_text: stradora game
-  content: ''
+  content: Il 30 settembre 2022, in occasione della <a href="https://www.focus.unimore.it/la-notte-europea-della-ricerca-laboratori-esperimenti-visite-guidate/"
+    title="">Notte della ricerca 2002</a> promossa da Unimore alla sede <a href="https://www.unimore.it/nottericerca2022/re01.html"
+    title=""><strong>Tecnopolo</strong></a> di Reggio Emilia, siamo lieti di presentare
+    un laboratorio ispirato al progetto Stradora che metterà in gioco il nostro naturale
+    istinto di raccontare storie.<br><br>I dettagli dell' attività <a href="https://www.unimore.it/nottericerca2022/evento.html?e=74"
+    title=""><strong>Stradora Game</strong></a> li trovate <a href="https://www.unimore.it/nottericerca2022/evento.html?e=74"
+    title="">qui</a>.<br>
 - template: detail-content
   block: text-tw
   content: ''
