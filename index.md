@@ -126,8 +126,7 @@ page_sections:
   headline: ''
 - template: simple-footer
   block: footer-1
-  content: 'Pianetararo associazione culturale<br>CF: 04015870365 <br>info@pianetararo.org<br><a
-    href="https://twitter.com/pianetararo"><img src="/uploads/2022/03/06/twitter-24.png"></a><br>Pianetararo
+  content: 'Pianetararo associazione culturale<br>CF: 04015870365 <br>info@pianetararo.org<br>Pianetararo
     è un associazione senza scopo di lucro e partecipa al programma "Google for Non
     profits".<br><br><a href="privacy" title="privacy" style="color: white">Privacy
     &amp; Cookie policy</a>'
