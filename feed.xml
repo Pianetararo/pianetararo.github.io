@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>pianetararo</title>
+    <link href="https://pianetararo.org/feed.xml" rel="self" />
+    <link href="https://pianetararo.org" />
+    <updated>2024-11-19T15:45:42+01:00</updated>
+    <author>
+        <name>Pianetararo Associazione Culturale</name>
+    </author>
+    <id>https://pianetararo.org</id>
+
+    <entry>
+        <title>FRAMMENTI</title>
+        <author>
+            <name>Pianetararo Associazione Culturale</name>
+        </author>
+        <link href="https://pianetararo.org/frammenti/"/>
+        <id>https://pianetararo.org/frammenti/</id>
+        <media:content url="https://pianetararo.org/media/posts/3/54de286d6449ab0f332d4d329839cea0a41d1093.jpg" medium="image" />
+
+        <updated>2024-11-19T15:38:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pianetararo.org/media/posts/3/54de286d6449ab0f332d4d329839cea0a41d1093.jpg" alt="" />
+                    <p>prova testo</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pianetararo.org/media/posts/3/54de286d6449ab0f332d4d329839cea0a41d1093.jpg" class="type:primaryImage" alt="" /></p>
+                <p>prova testo</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

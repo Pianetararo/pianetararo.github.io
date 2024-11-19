@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "pianetararo",
+    "description": "",
+    "home_page_url": "https://pianetararo.org",
+    "feed_url": "https://pianetararo.org/feed.json",
+    "user_comment": "",
+    "icon": "https://pianetararo.org/media/website/PIANETARARO-1-1-1.svg",
+    "author": {
+        "name": "Pianetararo Associazione Culturale"
+    },
+    "items": [
+        {
+            "id": "https://pianetararo.org/frammenti/",
+            "url": "https://pianetararo.org/frammenti/",
+            "title": "FRAMMENTI",
+            "summary": "<p>prova testo</p>\n",
+            "content_html": "<p>prova testo</p>\n\n<p> </p>",
+            "image": "https://pianetararo.org/media/posts/3/54de286d6449ab0f332d4d329839cea0a41d1093.jpg",
+            "author": {
+                "name": "Pianetararo Associazione Culturale"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-19T15:38:37+01:00",
+            "date_modified": "2024-11-19T15:45:42+01:00"
+        }
+    ]
+}
