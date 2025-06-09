@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pianetararo.org/traiettorie-2/",
+            "url": "https://pianetararo.org/traiettorie-2/",
+            "title": "TrAIettorie",
+            "summary": "📌 È online TRAIETTORIE, la nuova sezione di pianetararo dedicata a esplorare l'educazione critica e consapevole nell'universo digitale. Insegnanti, educatori, famiglie e curiosi del digitale troveranno riflessioni, approfondimenti e strumenti pratici per comprendere come le tecnologie digitali e l'intelligenza artificiale stanno cambiando il nostro modo di&hellip;",
+            "content_html": "<p>📌 È online <strong><a href=\"https://pianetararo.org/traiettorie/\">TRAIETTORIE</a></strong>, la nuova sezione di <strong>pianetararo</strong> dedicata a esplorare l'educazione critica e consapevole nell'universo digitale. Insegnanti, educatori, famiglie e curiosi del digitale troveranno <span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\">riflessioni</span></span>, approfondimenti e strumenti pratici per comprendere come le tecnologie digitali e l'intelligenza artificiale stanno cambiando il nostro modo di apprendere e comunicare. Non ci limitiamo a raccontare l'innovazione, ma ne analizziamo rischi, opportunità e implicazioni educative ed etiche. Un viaggio aperto e dinamico, fatto di <span style=\"text-decoration: underline;\">domande</span>, confronti e <span style=\"text-decoration: underline;\">laboratori </span>per costruire insieme una <strong>cultura digitale consapevole e responsabile</strong>. Seguici, iscriviti alla nostra <strong>newsletter </strong>e contattaci per proposte educative personalizzate!</p>",
+            "image": "https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg",
+            "author": {
+                "name": "Pianetararo Associazione Culturale"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-02T16:39:14+02:00",
+            "date_modified": "2025-06-04T14:28:22+02:00"
+        },
+        {
             "id": "https://pianetararo.org/frammenti-25-ora-disponibile-su-lulu-2/",
             "url": "https://pianetararo.org/frammenti-25-ora-disponibile-su-lulu-2/",
             "title": "FRAMMENTI #25 disponibile anche su Amazon",
@@ -38,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2024-11-30T07:32:52+01:00",
-            "date_modified": "2025-01-01T13:17:05+01:00"
+            "date_modified": "2025-06-02T18:10:06+02:00"
         }
     ]
 }

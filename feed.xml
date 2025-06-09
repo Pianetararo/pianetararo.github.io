@@ -3,12 +3,35 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2025-01-01T13:33:09+01:00</updated>
+    <updated>2025-06-04T14:28:22+02:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
     <id>https://pianetararo.org</id>
 
+    <entry>
+        <title>TrAIettorie</title>
+        <author>
+            <name>Pianetararo Associazione Culturale</name>
+        </author>
+        <link href="https://pianetararo.org/traiettorie-2/"/>
+        <id>https://pianetararo.org/traiettorie-2/</id>
+        <media:content url="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" medium="image" />
+
+        <updated>2025-06-02T16:39:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" alt="" />
+                    📌 È online TRAIETTORIE, la nuova sezione di pianetararo dedicata a esplorare l'educazione critica e consapevole nell'universo digitale. Insegnanti, educatori, famiglie e curiosi del digitale troveranno riflessioni, approfondimenti e strumenti pratici per comprendere come le tecnologie digitali e l'intelligenza artificiale stanno cambiando il nostro modo di&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>📌 È online <strong><a href="https://pianetararo.org/traiettorie/">TRAIETTORIE</a></strong>, la nuova sezione di <strong>pianetararo</strong> dedicata a esplorare l'educazione critica e consapevole nell'universo digitale. Insegnanti, educatori, famiglie e curiosi del digitale troveranno <span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">riflessioni</span></span>, approfondimenti e strumenti pratici per comprendere come le tecnologie digitali e l'intelligenza artificiale stanno cambiando il nostro modo di apprendere e comunicare. Non ci limitiamo a raccontare l'innovazione, ma ne analizziamo rischi, opportunità e implicazioni educative ed etiche. Un viaggio aperto e dinamico, fatto di <span style="text-decoration: underline;">domande</span>, confronti e <span style="text-decoration: underline;">laboratori </span>per costruire insieme una <strong>cultura digitale consapevole e responsabile</strong>. Seguici, iscriviti alla nostra <strong>newsletter </strong>e contattaci per proposte educative personalizzate!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>FRAMMENTI #25 disponibile anche su Amazon</title>
         <author>
