@@ -3,7 +3,7 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2025-06-10T17:17:33+02:00</updated>
+    <updated>2025-06-10T17:38:38+02:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
@@ -50,6 +50,8 @@
 <p><span style="font-weight: 400;">Una volta che i tuoi dati entrano in un sistema AI, non c’è più modo di riprenderli indietro. Sono archiviati su server, magari in un altro continente, e chi garantisce che non vengano usati in futuro per scopi diversi? Pensiamo, ad esempio, a una mamma che carica foto di famiglia su un generatore di immagini AI: quelle immagini potrebbero essere usate per altro, e se domani c’è una violazione o un cambio di policy, potrebbero anche finire in mani sbagliate. </span></p>
 <h5>⚠️ Memorizzazione nascosta e rischio leak</h5>
 <p><span style="font-weight: 400;">Ecco il punto forse più inquietante: i modelli AI apprendono dai dati, e talvolta possono “ricordare” dettagli sensibili, anche se non dovrebbero. Ci sono stati casi in cui i ricercatori hanno dimostrato che un chatbot poteva rigenerare numeri di carte di credito usate durante l’addestramento. E se capita con una carta, perché non con il tuo indirizzo email o il nome del tuo amico Marco?</span></p>
+<h5>⚠️ Repsonsabilità per condivisione di dati riservati</h5>
+<p><span style="font-weight: 400;">Argomento decisamente problematico. Quando condividi il pdf, l'email (magari con dati personali altrui), il codice sorgente, il file excel che desideri rielaborare o riassumere ? Sei sicuro di poterlo fare ? Stai condividendo materiale generico o materiale riservato, magari protetto da diritti autore o segreto industriale? Occorre riflettere e porre molta attenzione sui materiali che maneggiamo in relazione agli strumenti che utlizziamo. Nel dubbio vale la regola - evitare.</span></p>
 <h5>⚠️ Allucinazioni problematiche o pericolose</h5>
 <p><span style="font-weight: 400;">Le IA non sono infallibili. Possono “inventare” dati – e a volte, quei dati inventati riguardano persone vere. Se il chatbot ti dà la data di nascita sbagliata di un politico, o ti attribuisce un titolo di studio che non hai mai conseguito, si tratta di un problema serio di accuratezza. E correggere questi errori? Spesso impossibile, perché l’IA non sa nemmeno da dove ha preso quell’informazione.</span></p>
 <h5>⚠️ Minori e poca protezione</h5>
