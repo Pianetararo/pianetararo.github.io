@@ -3,12 +3,35 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2025-06-10T10:39:18+02:00</updated>
+    <updated>2025-06-10T11:36:26+02:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
     <id>https://pianetararo.org</id>
 
+    <entry>
+        <title>TrAIettorie</title>
+        <author>
+            <name>Pianetararo Associazione Culturale</name>
+        </author>
+        <link href="https://pianetararo.org/traiettorie-2/"/>
+        <id>https://pianetararo.org/traiettorie-2/</id>
+        <media:content url="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" medium="image" />
+
+        <updated>2025-06-02T16:39:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" alt="" />
+                    📌 È online TRAIETTORIE, la nuova sezione di pianetararo dedicata a esplorare l'educazione critica e consapevole nell'universo digitale. Insegnanti, educatori, famiglie e curiosi del digitale troveranno riflessioni, approfondimenti e strumenti pratici per comprendere come le tecnologie digitali e l'intelligenza artificiale stanno cambiando il nostro modo di&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>📌 È online <strong><a href="https://pianetararo.org/traiettorie/">TRAIETTORIE</a></strong>, la nuova sezione di <strong>pianetararo</strong> dedicata a esplorare l'educazione critica e consapevole nell'universo digitale. Insegnanti, educatori, famiglie e curiosi del digitale troveranno <span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">riflessioni</span></span>, approfondimenti e strumenti pratici per comprendere come le tecnologie digitali e l'intelligenza artificiale stanno cambiando il nostro modo di apprendere e comunicare. Non ci limitiamo a raccontare l'innovazione, ma ne analizziamo rischi, opportunità e implicazioni educative ed etiche. Un viaggio aperto e dinamico, fatto di <span style="text-decoration: underline;">domande</span>, confronti e <span style="text-decoration: underline;">laboratori </span>per costruire insieme una <strong>cultura digitale consapevole e responsabile</strong>. Seguici, iscriviti alla nostra <strong>newsletter </strong>e contattaci per proposte educative personalizzate!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Privacy e intelligenza artificiale: cosa dobbiamo sapere nel 2025</title>
         <author>
@@ -19,7 +42,7 @@
         <media:content url="https://pianetararo.org/media/posts/21/g9ddxhg9ddxhg9dd.jfif" medium="image" />
             <category term="TRAIETTORIE"/>
 
-        <updated>2025-06-10T08:49:06+02:00</updated>
+        <updated>2025-05-01T20:49:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pianetararo.org/media/posts/21/g9ddxhg9ddxhg9dd.jfif" alt="" />
@@ -130,31 +153,17 @@
 <p><span style="font-weight: 400;">Lo so, la tentazione è pensare che la privacy e l’IA siano due cose in conflitto: o proteggi i tuoi dati o usi la tecnologia. Ma non deve per forza essere così. Possiamo (e dobbiamo) trovare un equilibrio: costruire IA potenti e utili, ma rispettose della nostra sfera privata.</span></p>
 <p><span style="font-weight: 400;">Le leggi ci sono – il GDPR, l’AI Act – ma da sole non bastano. Servono aziende più trasparenti, utenti più consapevoli, e autorità più reattive. È una sfida collettiva.</span></p>
 <p><span style="font-weight: 400;">Una cosa è certa: più conosciamo questi strumenti, più possiamo usarli in modo intelligente, senza rinunciare ai nostri diritti. Non dobbiamo smettere di fare domande, di pretendere chiarezza, di chiedere “Scusate, ma i miei dati dove vanno a finire?”. È solo così che l’IA diventerà davvero uno strumento al nostro servizio, e non il contrario.</span></p>
+<p> </p>
+<h3 data-start="240" data-end="319">Quanti dati sa di te l’AI? Più di quanto immagini (ma meno di quanto pensi)</h3>
+<p data-start="321" data-end="1106">È una domanda che inizia a girare sempre più spesso tra chi usa ChatGPT o altri assistenti intelligenti: <em data-start="426" data-end="460">“Ma questa AI, quanto sa di me?”</em> Se la usi spesso, potresti avere l’impressione che ti legga nel pensiero. A volte ti anticipa, altre volte ti dà una risposta che suona... troppo su misura. La verità? Un LLM (modello linguistico) non ha una memoria infinita né spia la tua vita – almeno, non nel modo in cui immagini. Ma può <strong data-start="753" data-end="793">dedurre molte cose da come gli parli</strong>, anche se non gliele hai dette esplicitamente. È un po’ come con un barista che ti vede tutti i giorni: anche se non ti sei mai presentato, sa che prendi il cappuccino con poco zucchero, che arrivi trafelato e che il lunedì sei più silenzioso. Il barista ricorda ciò che gli racconti ed è capace di collegarlo a notizie o informaizioni ricevute da altri. L’AI fa lo stesso, solo che lo fa in silenzio, e in modo statistico. </p>
+<h3 data-start="1108" data-end="1162">Esperimenti da fare in salotto</h3>
+<p data-start="1164" data-end="2177">Vuoi testare quanto ha imparato su di te? Prova questi piccoli esperimenti. Niente di tecnico, promesso. Prima cosa: chiedi all’AI direttamente <em data-start="1308" data-end="1327">“Cosa sai di me?”</em>. Nella maggior parte dei casi, se stai usando un modello chiuso come ChatGPT o Claude, ti risponderà qualcosa tipo <em data-start="1443" data-end="1485">“Non ho informazioni personali su di te”</em>. <span style="font-weight: 400;">I modelli chiusi come quelli di OpenAI o Anthropic sono </span><strong>programmati per non fornire dati personali</strong><span style="font-weight: 400;"> di individui privati.</span><span style="font-weight: 400;"> </span>Ma se sei nella <strong data-start="1503" data-end="1518">stessa chat</strong> in cui hai già detto “Mi chiamo Lucia e faccio l’infermiera”, potresti scoprire che te lo ripete: ha <strong data-start="1620" data-end="1643">memoria contestuale</strong>, cioè ricorda quello che le hai detto poco fa. Vuoi spingerti oltre? Chiedile: <em data-start="1723" data-end="1766">“Che tipo di personalità pensi io abbia ? Puoi fare un profilo ”</em> oppure <em data-start="1774" data-end="1819">“Quali argomenti tratto più spesso con te?”</em>. <span style="font-weight: 400;">Questo invoglia l’AI a sintetizzare i </span><strong>tratti ricorrenti</strong><span style="font-weight: 400;"> che hai mostrato. Potrebbe </span>stupire con un piccolo ritratto basato su ciò che hai scritto. Non è una scheda FBI, ma una <strong data-start="1921" data-end="1950">fotografia probabilistica</strong>. E se usi un servizio con memoria attiva (come la funzione “istruzioni personalizzate” di OpenAI), puoi anche provare: <em data-start="2070" data-end="2110">“Quali dettagli su di me stai usando?”</em> – così verifichi cosa si è tenuta in tasca da altre conversazioni. Si potrebbe tentare anche qualche domanda investigativa inversa<strong> <i><span style="font-weight: 400;">“Esaminando come ti ho posto le domande finora, noti qualche errore o abitudine sbagliata che ho quando chiedo qualcosa?”,  "Puoi dirmi quali sono i tipi di aiuto o gli argomenti che ti ho chiesto più spesso finora?”</span></i><span style="font-weight: 400;">. Questo costringe l’AI a ripensare alle tue interazioni e magari citare </span>esempi di domande che hai fatto. </strong>Potremmo indagare il "Blind spot" <strong><span style="font-weight: 400;">chiedendo <i>“Basandoti sulle nostre conversazioni, c’è qualcosa di significativo che secondo te mi sfugge o tendo a ignorare?”. </i>Se il modello se nota </span>qualcosa di importante che tu tendi sempre a non chiedere o a trascurare<span style="font-weight: 400;">. </span><span style="font-weight: 400;">È come chiedere un parere esterno sulle </span>tue abitudini. <span style="font-weight: 400;">Questo non è tanto un dato “raccolto”, quanto </span></strong><span style="font-weight: 400;">un’</span>inferenza<strong><span style="font-weight: 400;">: l’AI rielabora i dati delle tue interazioni per darti un feedback su di te. e questo ti fa capire come il modello </span>analizza e profila<span style="font-weight: 400;"> in qualche modo il tuo comportamento.</span></strong></p>
+<p data-start="1164" data-end="2177">Teniamo a mente che sono sempre tutte <strong>risposte di tipo probabilistico </strong>e quindi vanno prese con leggerezza nella consapevolezza che <strong>possono essere errate.</strong></p>
+<h3 data-start="2179" data-end="2234">Un dossier invisibile? No, ma meglio restare svegli</h3>
+<p data-start="2236" data-end="3231">C’è però un’altra faccia della medaglia. Anche se il modello stesso non ti può elencare i dati raccolti (non è progettato per questo), <strong data-start="2371" data-end="2408">la piattaforma che lo gestisce sì</strong>. Dietro le quinte, i server registrano la cronologia delle chat, l’orario, il tipo di dispositivo usato, la posizione approssimativa. Non per spiarti, ma per motivi tecnici e legali. Il problema è che tu, utente comune, <strong data-start="2639" data-end="2681">non puoi vedere tutto questo in chiaro</strong>: non c’è un pulsante “Scarica ciò che sai di me” accessibile direttamente dall’AI. Vuoi sapere davvero quali dati hanno memorizzato? Cancella tutto e dimenticati tutto di me ! Devi fare una richiesta formale al provider – ad esempio tramite i moduli privacy di OpenAI – oppure disattivare le funzioni di cronologia e memoria, e purtoppo una vera cancellazione non sempre è possibile anche perchè ora che i sistemi sono diventati Agenti, i dati vengono anche con sistemi terzi. Insomma, l’<strong>AI non ha una sfera di cristallo</strong>, ma se la alimenti a lungo e le lasci indizi... impara a riconoscerti. Con misura e consapevolezza, può essere uno specchio utile e potrrebbe diventare anche uno strumento utile. Ma non dimenticare: ogni volta che parli con un sistema AI, <strong data-start="3200" data-end="3230">non sei mai del tutto solo</strong>.</p>
+<p data-start="2236" data-end="3231">Un consiglio guida è "<strong>mai condividere cose che non vorresti condividere in pubblico"</strong>. </p>
 <hr>
 <p class="align-center">Questo post è parte della rubicra <strong><a href="https://pianetararo.org/traiettorie/">TrAIettorie </a></strong>di cui potete trovare indice completo <a href="https://pianetararo.org/traiettorie/">qui</a>. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>TrAIettorie</title>
-        <author>
-            <name>Pianetararo Associazione Culturale</name>
-        </author>
-        <link href="https://pianetararo.org/traiettorie-2/"/>
-        <id>https://pianetararo.org/traiettorie-2/</id>
-        <media:content url="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" medium="image" />
-
-        <updated>2025-06-02T16:39:14+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" alt="" />
-                    📌 È online TRAIETTORIE, la nuova sezione di pianetararo dedicata a esplorare l'educazione critica e consapevole nell'universo digitale. Insegnanti, educatori, famiglie e curiosi del digitale troveranno riflessioni, approfondimenti e strumenti pratici per comprendere come le tecnologie digitali e l'intelligenza artificiale stanno cambiando il nostro modo di&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pianetararo.org/media/posts/20/aditya-vyas-jey6eFHP4kA-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>📌 È online <strong><a href="https://pianetararo.org/traiettorie/">TRAIETTORIE</a></strong>, la nuova sezione di <strong>pianetararo</strong> dedicata a esplorare l'educazione critica e consapevole nell'universo digitale. Insegnanti, educatori, famiglie e curiosi del digitale troveranno <span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">riflessioni</span></span>, approfondimenti e strumenti pratici per comprendere come le tecnologie digitali e l'intelligenza artificiale stanno cambiando il nostro modo di apprendere e comunicare. Non ci limitiamo a raccontare l'innovazione, ma ne analizziamo rischi, opportunità e implicazioni educative ed etiche. Un viaggio aperto e dinamico, fatto di <span style="text-decoration: underline;">domande</span>, confronti e <span style="text-decoration: underline;">laboratori </span>per costruire insieme una <strong>cultura digitale consapevole e responsabile</strong>. Seguici, iscriviti alla nostra <strong>newsletter </strong>e contattaci per proposte educative personalizzate!</p>
             ]]>
         </content>
     </entry>
