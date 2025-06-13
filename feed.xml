@@ -3,7 +3,7 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2025-06-13T11:08:09+02:00</updated>
+    <updated>2025-06-13T11:11:49+02:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
@@ -118,7 +118,7 @@
                 <h4 class="align-center"><strong>Quando l’algoritmo diventa ingiusto senza che ce ne accorgiamo</strong></h4>
 <p class="align-center"><em>(Recensione e riflessioni ispirate al libro di Cathy O’Neil)</em></p>
 <hr>
-<p>C’è un’illusione di fondo che ancora ci accompagna quando pensiamo ai numeri, alle formule, agli algoritmi: quella di una matematica “<em>neutrale</em>”, distaccata, quasi al di sopra dei pregiudizi umani. <strong>Cathy O’Neil</strong>, con il suo libro “<strong>Armi di distruzione matematica</strong>”, demolisce questa illusione pezzo dopo pezzo, e lo fa con una chiarezza e una passione che davvero costringono a rimettere in discussione tutto ciò che pensavamo di sapere sul potere dei dati.</p>
+<p>C’è un’illusione di fondo che ancora ci accompagna quando pensiamo ai numeri, alle formule, agli algoritmi: quella di una matematica “<em>neutrale</em>”, distaccata, quasi al di sopra dei pregiudizi umani. <strong>Cathy O’Neil</strong>, con il suo libro “<strong><a href="https://search.worldcat.org/it/title/1015979069">Armi di distruzione matematica</a></strong>”, demolisce questa illusione pezzo dopo pezzo, e lo fa con una chiarezza e una passione che davvero costringono a rimettere in discussione tutto ciò che pensavamo di sapere sul potere dei dati.</p>
 <p>Per chi non l’avesse ancora letto – consigliamo vivamente di farlo, magari anche solo per farsi due domande scomode davanti alla prossima richiesta di “accetta i cookie” – O’Neil parte proprio dal suo percorso personale. Matematica di formazione, finita tra hedge fund e startup tech, lei per prima aveva creduto che più numeri significasse più giustizia. Invece, a Wall Street, ha visto i modelli matematici gonfiare la bolla dei subprime, amplificare rischi e ingiustizie, e, paradossalmente, fornire una giustificazione “scientifica” a decisioni che poi, di scientifico, avevano ben poco.</p>
 <p>La cosa che colpisce è come i modelli, una volta usciti dai laboratori e dalle simulazioni accademiche, si siano infilati in ogni anfratto della società. Oggi li troviamo ovunque: dalla scuola ai tribunali, dalle banche alle pubblicità che ci inseguono online. E non solo: decidono chi riceverà un prestito, chi sarà chiamato per un colloquio, chi verrà licenziato, chi dovrà pagare di più per l’assicurazione auto, chi sarà sorvegliato da una pattuglia di polizia. Sembra il set di un film distopico, e invece è la routine di ogni giorno.</p>
 <p>La domanda di fondo che ci accompagna leggendo O’Neil è semplice e spiazzante: <strong>quando un modello matematico diventa pericoloso?</strong> Non basta dire “quando sbaglia”, perché anche un modello ben fatto può sbagliare di tanto in tanto. Il problema nasce, piuttosto, quando un algoritmo si fa opaco, si applica su vasta scala e produce danni sistemici, colpendo soprattutto chi ha meno mezzi per difendersi. Un po’ come una burocrazia impazzita: fredda, senza volto, incapace di ascoltare. Lì, sì, che diventa un’arma – un’arma di distruzione matematica.</p>
