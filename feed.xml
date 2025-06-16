@@ -3,7 +3,7 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2025-06-16T07:44:36+02:00</updated>
+    <updated>2025-06-16T08:09:09+02:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
@@ -81,11 +81,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sistemi di aiuto nella correzione di compiti <strong>senza rischiare di violare la privacy</strong> degli studenti, elaborando i testi localmente senza inviarli a server esterni.</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Creazione di <strong>strumenti di autovalutazione</strong> per esami o interrogazioni che non memorizzano le risposte in rete, proteggendo così l'identità e i progressi degli alunni.</span></li>
 <li aria-level="1"><span style="font-weight: 400;">Sistemi di assistenza per l’apprendimento domestico dei figli (ripasso, supporto compiti) completamente offline, <strong>controllabili dall’educatore e personalizzabili </strong>su contenuti familiari.</span></li>
-<li aria-level="1"><span style="font-weight: 400;"><strong>Evitare Lock-in tecnologico</strong>:</span>
-<ul>
-<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">In scenari geopolitici o di crisi tecnologica, l’utilizzo di modelli open-source eseguiti in locale si rivela strategico anche per la </span><strong>continuità operativa</strong><span style="font-weight: 400;">. Un AI locale permette di funzionare </span><strong>off-grid</strong><span style="font-weight: 400;">, cioè senza connessione a internet, e garantisce l’indipendenza da fornitori esterni, evitando così i rischi connessi a embarghi, censure o disattivazioni remote dei servizi.</span></li>
-</ul>
-</li>
+<li aria-level="1"><span style="font-weight: 400;"><strong>Evitare Lock-in tecnologico</strong>: nessuna dipendenza da fornitori esterni. I</span><span style="font-weight: 400;">n scenari geopolitici o di crisi tecnologica, l’utilizzo di modelli open-source locali si rivela strategico anche per la </span><strong>continuità operativa</strong><span style="font-weight: 400;">. Un AI locale permette di funzionare </span><strong>off-grid</strong><span style="font-weight: 400;">, cioè senza connessione a internet evitando così i rischi connessi a embarghi, censure o disattivazioni remote dei servizi.</span></li>
 </ul>
 <p><span style="font-weight: 400;">Per tutti questi casi ed oltre, estendibili a contesti non solo educativi, una soluzione basata su modello open e locale non è solo una scelta sostenibile, etica o educativa, ma anche una </span><strong>soluzione resiliente</strong><span style="font-weight: 400;"> per proteggere informazioni sensibili e garantire la sovranità digitale.</span></p>
 <h2>Facciamoci un pò di domande.</h2>
