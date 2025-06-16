@@ -3,7 +3,7 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2025-06-16T08:09:09+02:00</updated>
+    <updated>2025-06-16T08:12:02+02:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
@@ -58,7 +58,7 @@
 <p><span style="font-weight: 400;">Certo, serve un minimo di competenza tecnica. Ma le risorse esistono. Le comunità crescono e con loro queste soluzioni e strumenti. Oggi possiamo dire che hanno raggiunto una maturità tale da essere facilmente accessibili e applicabili in svariati contesti.</span></p>
 <p><span style="font-weight: 400;">Quando parliamo di sistemi “<em>chiusi e proprietari</em>”, ci riferiamo a piattaforme di AI i cui algoritmi, modelli e dati di addestramento non sono pubblici. L’utente può solitamente accedere al servizio senza alcuna visibilità su come il risultato sia stato ottenuto. L’AI open source, al contrario, punta a rendere disponibili codice, modelli e talvolta dati con licenze libere, consentendo a chiunque di utilizzare, studiare, modificare e condividere il sistema. In altre parole, un modello aperto diventa una sorta di “struttura in vetro” analizzabile autonomamente dall’utente. La Commissione Europea sta addirittura definendo requisiti per i modelli “fully open-source” nell’AI Act, riferendosi a quelli con pesi, codice completo e dati di training pubblicamente disponibili e liberamente riutilizzabili. </span></p>
 <p><span style="font-weight: 400;">Oggi esistono soluzioni completamente open source o soluzioni parziali. LLaMA, Mistral, Phi, Qwen, Whisper, sono nomi che forse non si trovano subito sui giornali, ma che rappresentano un altro modo di usare l’AI: più sostenibile, più rispettoso, più libero.</span></p>
-<p><span style="font-weight: 400;">Nei sistemi </span><strong>chiusi</strong><span style="font-weight: 400;"> (Google Gemini, GPT-4, Claude 3) l’algoritmo è una</span><strong> scatola nera</strong><span style="font-weight: 400;">: inserisci la domanda, loro macinano, tu ottieni una risposta. Fine della storia.</span></p>
+<p><span style="font-weight: 400;">Nei sistemi </span><strong>chiusi</strong><span style="font-weight: 400;"> (Gemini, ChatGPT, Claude, ecc.) l’algoritmo è una</span><strong> scatola nera</strong><span style="font-weight: 400;">: inserisci la domanda, loro macinano, tu ottieni una risposta. Fine della storia.</span></p>
 <p><span style="font-weight: 400;">Con i progetti </span><strong>open-source</strong><span style="font-weight: 400;"> succede l’opposto:</span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1">Codice e pesi<span style="font-weight: 400;"> <strong>sono pubblici</strong>.</span></li>
