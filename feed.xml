@@ -3,7 +3,7 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2025-06-16T01:33:19+02:00</updated>
+    <updated>2025-06-16T02:38:31+02:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
@@ -65,7 +65,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Puoi installare il modello </span><strong>in locale</strong><span style="font-weight: 400;">, quindi niente viaggio dei dati verso server stranieri.</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">La community “spulcia” il codice, scova bug, riduce bias, propone ottimizzazioni.</span></li>
 </ul>
-<p><span style="font-weight: 400;">Certo, il sistemi chiusi offrono soluzioni “chiavi in mano”, che fanno risparmiare sul personale tecnico, ma il trade-off è chiaro: dipendenza tecnologica, minor controllo, esfiltrazione dei dati e costi fissi da una parte, più investimento in competenze interne, controllo dei costi e governo completo dall’altra.</span></p>
+<p><span style="font-weight: 400;">Certo, i sistemi chiusi offrono soluzioni “chiavi in mano”, che fanno risparmiare sul personale tecnico, ma il trade-off è chiaro: dipendenza tecnologica, minor controllo, esfiltrazione dei dati e costi fissi da una parte, più investimento in competenze interne, controllo dei costi e governo completo dall’altra.</span></p>
 <h3><strong>Cosa significa "modello AI eseguito in locale"?</strong></h3>
 <p><span style="font-weight: 400;">Un modello AI eseguito in locale è un software che </span><strong>gira sul proprio computer (o sul proprio server)</strong><span style="font-weight: 400;">, senza dipendere da servizi esterni e senza bisogno di inviare dati personali a un server esterno, senza tracker o blackout dettati da terzi, senza dover pagare un abbonamento. Tutto il processo avviene </span><strong>offline o in rete locale, chiusa</strong><span style="font-weight: 400;">. Nessun dato esce, nessuna informazione viene tracciata da terzi, nessun rischio di indisponibilità (basta un computer e la corrente elettrica).</span></p>
 <p><span style="font-weight: 400;">Ok, ma cosa ci potremmo fare ? Ad esempio in ambito educativo: </span></p>
