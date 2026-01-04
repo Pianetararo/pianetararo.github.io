@@ -3,14 +3,14 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2026-01-04T21:19:28+01:00</updated>
+    <updated>2026-01-04T21:22:43+01:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
     <id>https://pianetararo.org</id>
 
     <entry>
-        <title>&quot;Tre notti insonni&quot; (Ethan Mollick)</title>
+        <title>&quot;Tre notti insonni&quot; (cit. Ethan Mollick)</title>
         <author>
             <name>Pianetararo Associazione Culturale</name>
         </author>
@@ -52,7 +52,7 @@
 <h3>1) “Invita sempre l’IA al tavolo”</h3>
 <p><span style="font-weight: 400;">Sembra un invito all’esplorazione: usala, sperimenta, capisci dov’è forte e dov’è fragile.</span></p>
 <p><span style="font-weight: 400;">Ma per genitori ed educatori la domanda diventa:</span><span style="font-weight: 400;"><br></span><strong>invitarla al tavolo significa invitarla in quali conversazioni?</strong><strong><br></strong><span style="font-weight: 400;">In quelle intime? In quelle delicate? In quelle che riguardano un minore? In quelle che producono dipendenza?</span></p>
-<p><span style="font-weight: 400;">Perché ogni “invito” è anche una scelta di </span><i><span style="font-weight: 400;">ambiente</span></i><span style="font-weight: 400;">: dati, privacy, abitudini. E qui il collegamento con una consapevolezza già emersa nelle nostre traiettorie è inevitabile: parlare con un LLM spesso è come parlare in un microfono acceso, con log, tracciamenti e possibilità di riuso.</span></p>
+<p><span style="font-weight: 400;">Perché ogni “invito” è anche una scelta di </span><i><span style="font-weight: 400;">ambiente</span></i><span style="font-weight: 400;">: dati, privacy, abitudini. E qui il collegamento con una consapevolezza già emersa <a href="https://pianetararo.org/privacy-e-intelligenza-artificiale-cosa-dobbiamo-sapere-nel-2025/">nelle nostre traiettorie</a> è inevitabile: parlare con un LLM spesso è come parlare in un microfono acceso, con log, tracciamenti e possibilità di riuso.</span></p>
 <p><span style="font-weight: 400;">Quindi sì: invitiamola. </span></p>
 <p><span style="font-weight: 400;">Ma forse dovremmo anche imparare a dire: </span><strong>“Qui no. Qui non entra.”</strong></p>
 <h3>2) “Sii l’umano nel loop”</h3>
