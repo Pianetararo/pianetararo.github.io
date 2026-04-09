@@ -3,7 +3,7 @@
     <title>pianetararo</title>
     <link href="https://pianetararo.org/feed.xml" rel="self" />
     <link href="https://pianetararo.org" />
-    <updated>2026-04-09T08:16:01+02:00</updated>
+    <updated>2026-04-09T08:25:34+02:00</updated>
     <author>
         <name>Pianetararo Associazione Culturale</name>
     </author>
@@ -22,16 +22,16 @@
             <summary>
                 <![CDATA[
                         <img src="https://pianetararo.org/media/posts/28/matias-north-v8DSLoY80Xk-unsplash.jpg" alt="" />
-                    BiblioTherapy AI è online: un prototipo sperimentale che usa l'intelligenza artificiale per supportare il lavoro di biblioterapia. L'idea è semplice: trovare il libro giusto per la persona giusta nel momento giusto richiede tempo e intuizione. Un LLM può aiutare — non sostituendo il professionista, ma&hellip;
+                    BiblioTherapy AI è online: un prototipo sperimentale che usa l'intelligenza artificiale per supportare il lavoro di biblioterapia. Trovare il libro giusto per la persona giusta nel momento giusto richiede tempo e intuizione. Un LLM può aiutare, non sostituendo il professionista, ma ragionando per metafore e&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://pianetararo.org/media/posts/28/matias-north-v8DSLoY80Xk-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>BiblioTherapy AI</strong> è online: un prototipo sperimentale che usa l'intelligenza artificiale per supportare il lavoro di <strong>biblioterapia</strong>.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">L'idea è semplice: trovare il libro giusto per la persona giusta nel momento giusto richiede tempo e intuizione. Un LLM può aiutare — non sostituendo il professionista, ma ragionando per <strong>metafore e atmosfere</strong>, non solo per categorie. Se un albo usa tratti spigolosi e colori acidi per descrivere uno stato d'ansia, il sistema lo riconosce — anche se la parola "ansia" non compare mai nel testo.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Il prototipo è costruito su <strong>narrativa illustrata e graphic novel</strong>, funziona in locale, rispetta il diritto d'autore, non manda i tuoi dati da nessuna parte. È realizzato interamente con componenti open source e funziona su <strong>Android</strong>.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">È ancora piccolo — un numero simbolico di schede libro, una dimostrazione di quello che può diventare. </p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Trovare il libro giusto per la persona giusta nel momento giusto richiede tempo e intuizione. Un LLM può aiutare, non sostituendo il professionista, ma ragionando per <strong>metafore e atmosfere</strong>, non solo per categorie. Se unimmagine usa tratti spigolosi e colori acidi per descrivere uno stato d'ansia, il sistema lo riconosce, anche se la parola "ansia" non compare mai nel testo.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Il prototipo è costruito lavora anche su <strong>narrativa illustrata e graphic novel</strong>, funziona in locale, rispetta il diritto d'autore, non manda i tuoi dati da nessuna parte. Realizzato interamente con componenti open source funziona su Android.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">È ancora piccolo, un numero simbolico di schede libro, una dimostrazione di quello che può diventare. </p>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://pianetararo.org/bibliotherapy-ai/">Scopri BiblioTherapy AI →</a></p>
             ]]>
         </content>
